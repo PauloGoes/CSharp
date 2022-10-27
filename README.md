@@ -1,6 +1,6 @@
 # CSharpCredit Suisse – IT DEV RISK
 
-Problem: Categorize trades in a bank ́s portfolio
+**Problem:** Categorize trades in a bank ́s portfolio
 
 A bank has a portfolio of thousands of trades and they need to be categorized. A trade is a commercial negotiation
 between a bank and a client. A trade has many characteristics, including:
@@ -15,10 +15,13 @@ DateTime NextPaymentDate { get; } //indicates when the next payment from the cli
 }
 
 Currently, there are three categories (in order of precedence):
-1. EXPIRED: Trades whose next payment date is late by more than 30 days based on a reference date which will
+
+**1. EXPIRED:** Trades whose next payment date is late by more than 30 days based on a reference date which will
 be given.
-2. HIGHRISK: Trades with value greater than 1,000,000 and client from Private Sector.
-3. MEDIUMRISK: Trades with value greater than 1,000,000 and client from Public Sector.
+
+**2. HIGHRISK:** Trades with value greater than 1,000,000 and client from Private Sector.
+
+**3. MEDIUMRISK:** Trades with value greater than 1,000,000 and client from Public Sector.
 
 Question 1: Write a C# console application using object oriented design that classifies all trades in a given portfolio.
 Keep in mind that the real application may have dozens of categories, so your design must be extensible allowing those
