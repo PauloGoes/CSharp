@@ -1,0 +1,15 @@
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\bin\Debug\net6.0\CategorizarNegocios.exe
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\bin\Debug\net6.0\CategorizarNegocios.deps.json
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\bin\Debug\net6.0\CategorizarNegocios.runtimeconfig.json
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\bin\Debug\net6.0\CategorizarNegocios.dll
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\bin\Debug\net6.0\CategorizarNegocios.pdb
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\obj\Debug\net6.0\CategorizarNegocios.csproj.AssemblyReference.cache
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\obj\Debug\net6.0\CategorizarNegocios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\obj\Debug\net6.0\CategorizarNegocios.AssemblyInfoInputs.cache
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\obj\Debug\net6.0\CategorizarNegocios.AssemblyInfo.cs
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\obj\Debug\net6.0\CategorizarNegocios.csproj.CoreCompileInputs.cache
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\obj\Debug\net6.0\CategorizarNegocios.dll
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\obj\Debug\net6.0\refint\CategorizarNegocios.dll
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\obj\Debug\net6.0\CategorizarNegocios.pdb
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\obj\Debug\net6.0\CategorizarNegocios.genruntimeconfig.cache
+C:\Users\paulo.goes\source\repos\SolucaoCategorizarNegocios\CategorizarNegocios\obj\Debug\net6.0\ref\CategorizarNegocios.dll
