@@ -52,6 +52,7 @@ IsPoliticallyExposed was created in the ITrade interface. A trade shall be categ
 IsPoliticallyExposed is true. Describe in at most 1 paragraph what you must do in your design to account for this
 new category.
 
-R: Adicionar o campo IsPoliticalExposed na classe Trade, Criar a classe PEP com o seu tratamento de dados,
- e na classe Categoria adicionar no enmCategoria o tipo PEP e no método GetRiscoCategoria que define a ordem dos testes,
- adicione na lista como segundo item a chamada do construtor da classe PEP.
+**Resposta:
+Adicionar o campo IsPoliticalExposed na classe Trade, Criar a classe PEP com o seu tratamento de dados,
+e na classe Categoria adicionar no enmCategoria o tipo PEP e no método GetRiscoCategoria que define a ordem dos testes,
+adicione na lista como segundo item a chamada do construtor da classe PEP.
